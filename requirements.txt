@@ -5,6 +5,3 @@ Pillow==8.3.1
 dir2pdf==0.0.3
 tldextract==3.1.0
 lxml==4.6.3
-lxml==4.6.3 --no-binary :all:
-libxml2-dev>=2.0
-libxslt-dev>=2.0
