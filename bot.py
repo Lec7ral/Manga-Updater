@@ -1,8 +1,6 @@
 from pyrogram import Client
-from flask import Flask, request
 from config import Config
 
-url = 'https://Lectral.pythonanywhere.com/' + Config.SECRET
 
 
 xbot = Client(
