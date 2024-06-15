@@ -1,4 +1,5 @@
 services:
   - type: web
     port: 8080
+    host: 0.0.0.0
     command: python bot.py
