@@ -11,4 +11,4 @@ xbot = Client(
 	plugins=dict(root="plugins"),
 )
 
-xbot.run()
+xbot.run(host='0.0.0.0')
